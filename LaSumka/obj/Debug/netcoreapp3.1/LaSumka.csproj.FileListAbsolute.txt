@@ -1,0 +1,180 @@
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\appsettings.json
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.exe
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.csprojAssemblyReference.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.AssemblyInfoInputs.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.AssemblyInfo.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorAssemblyInfo.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorAssemblyInfo.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.TagHelpers.input.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.TagHelpers.output.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorCoreGenerate.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorTargetAssemblyInfo.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorTargetAssemblyInfo.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\staticwebassets\LaSumka.StaticWebAssets.Manifest.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\staticwebassets\LaSumka.StaticWebAssets.xml
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.csproj.CopyComplete
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.deps.json
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.runtimeconfig.json
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.runtimeconfig.dev.json
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.Views.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.Views.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.csproj.CoreCompileInputs.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.MvcApplicationPartsAssemblyInfo.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.Views.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.dll
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.pdb
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.genruntimeconfig.cache
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Bags.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\Bags.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoriesList.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\NewCategory.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\User.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddBag.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\Carts.cshtml.g.cs
+E:\A_University\2курс\ПВІ\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\OrderReady.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.exe
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.deps.json
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.runtimeconfig.json
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.runtimeconfig.dev.json
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.Views.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\LaSumka.Views.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.csprojAssemblyReference.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.AssemblyInfoInputs.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.AssemblyInfo.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.csproj.CoreCompileInputs.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.MvcApplicationPartsAssemblyInfo.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorAssemblyInfo.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorAssemblyInfo.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.TagHelpers.input.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.TagHelpers.output.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorCoreGenerate.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddBag.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Bags.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoriesList.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\NewCategory.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Admin.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\User.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\Bags.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\Carts.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\OrderReady.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorTargetAssemblyInfo.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.RazorTargetAssemblyInfo.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.Views.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.csproj.CopyComplete
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\staticwebassets\LaSumka.StaticWebAssets.Manifest.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\staticwebassets\LaSumka.StaticWebAssets.xml
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.dll
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.pdb
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\LaSumka.genruntimeconfig.cache
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\User\Bag.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Orders.cshtml.g.cs
+C:\ХНУ\Програмування Інтернет\LaSumka\LaSumka\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditBag.cshtml.g.cs

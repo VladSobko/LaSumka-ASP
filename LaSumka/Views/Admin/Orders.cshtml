@@ -1,0 +1,46 @@
+﻿@model IEnumerable<LaSumka.Models.Order>
+
+@{
+    ViewData["Title"] = "Orders";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+@if (ViewBag.Orders == null)
+{
+    <h1>List of orders is empty</h1>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Прізвище</th>
+                <th scope="col">Ім'я</th>
+                <th scope="col">Телефон</th>
+                <th scope="col">Товар</th>
+                <th scope="col">Ціна</th>
+                @*<th>Count</th>
+        <th>Total Price</th>*@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model)
+            {
+
+            <tr>
+                <td>@b.Id</td>
+                <td>@b.User.Surname</td>
+                <td>@b.User.Name</td>
+                <td>@b.User.Phone</td>
+                <td>@b.Bag.Name </td>
+                <td>@b.Bag.Price</td>
+                @*<td>@b.Count</td>
+        <td>@(b.Count * b.Product.Price)</td>*@
+            </tr>
+            }
+
+        </tbody>
+    </table>
+
+
+}

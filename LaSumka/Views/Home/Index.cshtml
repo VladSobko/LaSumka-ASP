@@ -1,0 +1,30 @@
+﻿@model IEnumerable<LaSumka.Models.Bag>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (ViewBag.Bags == null)
+{
+    <h1>List of bags is empty</h1>
+}
+else
+{
+    <h2 class="text-center pt-5">Вітаємо вас у магазині LaSumka</h2>
+    <p class="text-center">Для замовлення товарів вам необхідно авторизуватись</p>
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (var t in Model)
+            {
+                <div class="col-lg-4">
+                    <div class="imgInList"><img class="img-thumbnail" src="@t.Photo" alt="@t.Name" /></div>
+                    <h3> @t.Name </h3>
+                    <h6>Ціна: @t.Price.ToString("c")</h6>
+
+                </div>
+            }
+        }
+    </div>
+
+}

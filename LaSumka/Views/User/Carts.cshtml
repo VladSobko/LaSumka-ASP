@@ -1,0 +1,31 @@
+﻿@model IEnumerable<LaSumka.Models.ShopCart>
+@{
+    ViewData["Title"] = "Carts";
+    Layout = "~/Views/Shared/User.cshtml";
+}
+
+@if (ViewBag.Carts == null)
+{
+    <h1>List of products is empty</h1>
+}
+else
+{
+    <div class="row mt-5 mb-2 goodsItem">
+        @{
+            foreach (var t in Model)
+            {
+                <div class="col-lg-4 ">
+                    <div class="imgInList"><img class="img" src="@t.Bag.Photo" alt="@t.Bag.Name" /></div>
+                    <h2> @t.Bag.Name </h2>
+                    <h5>Ціна: @t.Bag.Price.ToString("c")</h5>
+                    <form asp-action="Order" asp-controller="User">
+                        <input type="submit" class="btn btn-warning orderButton text-center" value="Замовити" />
+                        <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                    </form>
+                </div>
+
+            }
+        }
+    </div>
+
+}

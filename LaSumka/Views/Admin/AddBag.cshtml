@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "Add Bag";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+@model LaSumka.Models.Bag
+
+    <div class="loginWrapper">
+        <div id="login">
+            <h3 class="text-center text-white pt-5">Додати товар</h3>
+            <div class="container">
+                <div id="login-row" class="row justify-content-center align-items-center">
+                    <div id="login-column" class="col-md-6">
+                        <div id="login-box" class="col-md-12">
+
+                            <form asp-antiforgery="true" asp-action="AddBag" asp-controller="Admin" enctype="multipart/form-data">
+
+                                <div>
+                                    <div class="validation" asp-validation-summary="ModelOnly"></div>
+                                    <div class="form-group">
+                                        <label class="text-info">Назва</label><br />
+                                        <input type="text" asp-for="Name" class="form-control" />
+                                        <span asp-validation-for="Name"></span>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="text-info">Фото</label>
+                                        <label for="files" class="btn btn-secondary orderButton">Вибрати зображення</label>
+                                        <input id="files" type="file" style="visibility:hidden;" name="Photo" /><br>
+                                        <span asp-validation-for="Photo"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="text-info">Відображення на головній сторінці</label><br />
+                                        <select asp-for="isFavourite" class="form-control">
+                                            <option value="true">Так</option>
+                                            <option value="false">Ні</option>
+                                        </select>
+                                        <span asp-validation-for="isFavourite"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="text-info">В наявності</label><br />
+                                        <select asp-for="Available" class="form-control">
+                                            <option value="true">Так</option>
+                                            <option value="false">Ні</option>
+                                        </select>
+                                        <span asp-validation-for="isFavourite"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="text-info">Ціна</label><br />
+                                        <input type="number" asp-for="Price" class="form-control" />
+                                        <span asp-validation-for="Price"></span>
+                                    </div>
+                                    <div class="form-group">
+
+
+                                        <label class="text-info">Категорія</label><br />
+                                        <select asp-for="CategoriesId" class="form-control">
+                                            @foreach (var b in ViewBag.Categories)
+                                            {
+                                                <option value="@b.Id">@b.Name</option>
+                                            }
+
+                                        </select>
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="text-info">Опис</label><br />
+                                                                             <textarea rows="3" type="text" asp-for="Description" class="form-control"></textarea>
+                                        <span asp-validation-for="Description"></span>
+                                    </div>
+
+
+                                    <div class="form-group text-center">
+                                        <input type="submit" class="btn btn-info btn-md loginButton" value="Додати товар">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @section scripts{
+
+        <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    }

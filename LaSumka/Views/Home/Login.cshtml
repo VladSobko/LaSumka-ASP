@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LaSumka.Models.User
+
+    <div class="loginWrapper">
+        <div id="login">
+            <h3 class="text-center text-white pt-5">Авторизація</h3>
+            <div class="container">
+                <div id="login-row" class="row justify-content-center align-items-center">
+                    <div id="login-column" class="col-md-6">
+                        <div id="login-box" class="col-md-12">
+                            <form asp-antiforgery="true" asp-action="Login" asp-controller="Home" class="form">
+                                <div class="validation" asp-validation-summary="ModelOnly"></div>
+
+                                <div class="form-group">
+                                    <label class="text-info" asp-for="Email"></label><br />
+                                    <input type="email" asp-for="Email" class="form-control" />
+                                    <span asp-validation-for="Email"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="text-info" asp-for="Password"></label><br />
+                                    <input type="password" asp-for="Password" class="form-control" />
+                                    <span asp-validation-for="Password"></span>
+                                </div>
+                                <div class="form-group text-center">
+                                    <input type="submit" name="submit" class="btn btn-info btn-md loginButton" value="Увійти">
+                                </div>
+                                <div id="register-link" class="text-right">
+                                    <a href="/Home/Register" class="text-info">Зареєструватись</a>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @section scripts{
+
+        <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    }

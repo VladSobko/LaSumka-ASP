@@ -1,0 +1,44 @@
+﻿@model IEnumerable<LaSumka.Models.Bag>
+@{
+    ViewData["Title"] = "User Page";
+    Layout = "~/Views/Shared/User.cshtml";
+}
+
+
+@if (ViewBag.Bags == null)
+{
+    <h1>List of bags is empty</h1>
+}
+else
+{
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (var t in Model)
+            {
+                <div class="col-lg-4">
+                    <div class="imgInList"><img class="img-thumbnail" src="@t.Photo" alt="@t.Name" /></div>
+                    <h2> @t.Name </h2>
+                    <h5>Ціна: @t.Price.ToString("c")</h5>
+                    <h6>Категорія: @t.Categories.Name</h6>
+                    @if (@t.Available == true)
+                    {<h6>В наявності</h6>}
+                    else
+                    @if (@t.Available == false)
+                     {<h6>Не в наявності</h6>}
+                    <p><a class="btn btn-primary detailBtn" href="/User/Bag/@t.Id">Детальніше...</a></p>
+                    <div class="row">
+                        <form asp-antiforgery="true" asp-action="AddToCart" asp-controller="User">
+                            <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                            <button class="btn btn-success orderButton">Додати в кошик</button>
+                        </form>
+                        <form asp-antiforgery="true" asp-action="Order" asp-controller="User">
+                            <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                            <button class="btn btn-warning orderButton">Замовити</button>
+                        </form>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+
+}

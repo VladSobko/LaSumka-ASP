@@ -1,0 +1,41 @@
+﻿@model IEnumerable<LaSumka.Models.Bag>
+
+@{
+    ViewData["Title"] = "Bag";
+    Layout = "~/Views/Shared/User.cshtml";
+}
+
+<div>
+    @foreach (var t in Model)
+    {
+        <div class="product">
+            <div class="proto_border2"><img class="img2" src="@t.Photo" alt="@t.Name" /></div>
+            <div class="textnearphoto">
+                <h2> @t.Name </h2>
+                <h4>Ціна: @t.Price.ToString("c")</h4>
+                <p>Категорія: @t.Categories.Name  </p>
+                @if (@t.Available == true)
+                {<h6>В наявності</h6>}
+                else
+                @if (@t.Available == false)
+                {<h6>Не в наявності</h6>}
+
+
+            </div>
+        </div>
+        <div class="mt-5 mh-100">
+            <h4 class="mh-100"> @t.Description  </h4>
+        </div>
+        <div class="product mt-3">
+            <form asp-antiforgery="true" asp-action="AddToCart" asp-controller="User">
+                <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                <button class="btn btn-success orderButton">Додати в кошик</button>
+            </form>
+            <form asp-antiforgery="true" asp-action="Order" asp-controller="User">
+                <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                <button class="btn btn-warning orderButton">Замовити</button>
+            </form>
+        </div>
+
+    }
+</div>

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<LaSumka.Models.Bag>
+@{
+    ViewData["Title"] = "Bags";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+@if (ViewBag.Bags == null)
+{
+    <h1>List of bags is empty</h1>
+}
+else
+{
+        <div class="row mt-5 mb-2">
+            @{
+                foreach (var t in Model)
+                {
+                        <div class="col-lg-4">
+                            <div class="imgInList"><img class="img-thumbnail" src="@t.Photo" alt="@t.Name" /></div>
+                            <h2> @t.Name </h2>
+                            <p>Ціна: @t.Price.ToString("c")</p>
+                            <p>Категорія: @t.Categories.Name</p>
+                            @if (@t.Available == true)
+                            {<h6>В наявності</h6>}
+                            else
+                            @if (@t.Available == false)
+                             {<h6>Не в наявності</h6>}
+                            @if (@t.isFavourite == true)
+                            {<h6>На головній сторінці</h6>}
+                            <div class="row">
+                                <form method="get" asp-action="EditBag" asp-controller="Admin">
+                                    <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                                    <button class="btn btn-warning orderButton">Редагувати</button>
+                                </form>
+                                <form asp-action="DeleteBag" asp-controller="Admin">
+                                    <input type="hidden" name="Id" value="@t.Id" class="form-control" />
+                                    <button class="btn btn-danger orderButton">Видалити</button>
+                                </form>
+                            </div>
+                        </div>
+                }
+            }
+        </div>
+        }

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaSumka", "LaSumka\LaSumka.csproj", "{6773E13F-4FB6-4BB6-A966-0C4357062D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaSumka.Tests", "LaSumka.Tests\LaSumka.Tests.csproj", "{750DA6B6-C599-4624-9261-BCE8322FBFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6773E13F-4FB6-4BB6-A966-0C4357062D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6773E13F-4FB6-4BB6-A966-0C4357062D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6773E13F-4FB6-4BB6-A966-0C4357062D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6773E13F-4FB6-4BB6-A966-0C4357062D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750DA6B6-C599-4624-9261-BCE8322FBFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750DA6B6-C599-4624-9261-BCE8322FBFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750DA6B6-C599-4624-9261-BCE8322FBFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750DA6B6-C599-4624-9261-BCE8322FBFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2CCE487-BD22-4081-AACD-26011790B8A2}
+	EndGlobalSection
+EndGlobal

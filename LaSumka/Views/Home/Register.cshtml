@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LaSumka.Models.User
+    <div class="loginWrapper">
+        <div id="login">
+            <h3 class="text-center text-white pt-5">Реєстрація</h3>
+            <div class="container">
+                <div id="login-row" class="row justify-content-center align-items-center">
+                    <div id="login-column" class="col-md-6">
+                        <div id="login-box" class="col-md-12">
+                            <form asp-antiforgery="true" asp-action="Register" asp-controller="Home" class="form">
+                                <div>
+                                    <div class="validation" asp-validation-summary="ModelOnly"></div>
+                                    <div class="form-group">
+                                        <label asp-for="Surname"></label><br />
+                                        <input type="text" asp-for="Surname" class="form-control" />
+                                        <span asp-validation-for="Surname"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="Name"></label><br />
+                                        <input type="text" asp-for="Name" class="form-control" />
+                                        <span asp-validation-for="Name"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="Email"></label><br />
+                                        <input type="email" asp-for="Email" class="form-control" />
+                                        <span asp-validation-for="Email"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="Password"></label><br />
+                                        <input type="password" asp-for="Password" class="form-control" />
+                                        <span asp-validation-for="Password"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="Phone"></label><br />
+                                        <input type="number" asp-for="Phone" class="form-control" />
+                                        <span asp-validation-for="Phone"></span>
+                                    </div>
+                                    <div class="form-group text-center">
+                                        <input type="submit" name="submit" class="btn btn-info btn-md loginButton" value="OK">
+                                    </div>
+                                    <div id="register-link" class="text-right">
+                                        <a href="/Home/Login" class="text-info">Маєте аккаунт? Увійти</a>
+                                    </div>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        @section scripts{
+
+            <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+            <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+        }
